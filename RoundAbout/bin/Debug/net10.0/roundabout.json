@@ -1,0 +1,21 @@
+{
+  "Balance": 990,
+  "Savings": 1.3,
+  "Goal": 10,
+  "Payments": [
+    {
+      "Date": "2026-11-08T17:44:35.060588+04:00",
+      "Shop": "Steam",
+      "Amount": 5.5,
+      "Charged": 6,
+      "Saved": 0.5
+    },
+    {
+      "Date": "2026-11-08T17:45:04.7179391+04:00",
+      "Shop": "Lovity",
+      "Amount": 3.2,
+      "Charged": 4,
+      "Saved": 0.8
+    }
+  ]
+}

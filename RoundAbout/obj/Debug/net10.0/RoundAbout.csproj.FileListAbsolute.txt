@@ -1,0 +1,14 @@
+C:\Users\alajm\RiderProjects\RoundAbout\RoundAbout\bin\Debug\net10.0\RoundAbout.exe
+C:\Users\alajm\RiderProjects\RoundAbout\RoundAbout\bin\Debug\net10.0\RoundAbout.deps.json
+C:\Users\alajm\RiderProjects\RoundAbout\RoundAbout\bin\Debug\net10.0\RoundAbout.runtimeconfig.json
+C:\Users\alajm\RiderProjects\RoundAbout\RoundAbout\bin\Debug\net10.0\RoundAbout.dll
+C:\Users\alajm\RiderProjects\RoundAbout\RoundAbout\bin\Debug\net10.0\RoundAbout.pdb
+C:\Users\alajm\RiderProjects\RoundAbout\RoundAbout\obj\Debug\net10.0\RoundAbout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alajm\RiderProjects\RoundAbout\RoundAbout\obj\Debug\net10.0\RoundAbout.AssemblyInfoInputs.cache
+C:\Users\alajm\RiderProjects\RoundAbout\RoundAbout\obj\Debug\net10.0\RoundAbout.AssemblyInfo.cs
+C:\Users\alajm\RiderProjects\RoundAbout\RoundAbout\obj\Debug\net10.0\RoundAbout.csproj.CoreCompileInputs.cache
+C:\Users\alajm\RiderProjects\RoundAbout\RoundAbout\obj\Debug\net10.0\RoundAbout.dll
+C:\Users\alajm\RiderProjects\RoundAbout\RoundAbout\obj\Debug\net10.0\refint\RoundAbout.dll
+C:\Users\alajm\RiderProjects\RoundAbout\RoundAbout\obj\Debug\net10.0\RoundAbout.pdb
+C:\Users\alajm\RiderProjects\RoundAbout\RoundAbout\obj\Debug\net10.0\RoundAbout.genruntimeconfig.cache
+C:\Users\alajm\RiderProjects\RoundAbout\RoundAbout\obj\Debug\net10.0\ref\RoundAbout.dll
