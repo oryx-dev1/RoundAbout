@@ -1,0 +1,27 @@
+# Build outputs
+bin/
+obj/
+[Bb]uild/
+[Ll]ib/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Test results
+TestResults/
+coverage*.xml
+*.trx
+
+# NuGet
+packages/
+*.nupkg
+
+# OS files
+.DS_Store
+Thumbs.db
