@@ -18,15 +18,13 @@ A command-line savings app written in C#. Every payment is **rounded up to the n
 
 ## Getting Started
 
-**Requirements:** [.NET 6 SDK](https://dotnet.microsoft.com/download) or newer
+**Requirements:** [.NET 8 SDK](https://dotnet.microsoft.com/download) or newer
 
 ```bash
-# create the project (skip if you already have one)
-dotnet new console -n RoundAbout
+git clone https://github.com/oryx-dev1/RoundAbout.git
 cd RoundAbout
-
-# replace the generated Program.cs with this project's Program.cs, then:
-dotnet run
+dotnet restore
+dotnet run --project RoundAbout/RoundAbout.csproj
 ```
 
 ## Usage
