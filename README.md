@@ -1,3 +1,4 @@
+![Build](https://github.com/oryx-dev1/RoundAbout/actions/workflows/dotnet.yml/badge.svg)
 # Round About
 
 A command-line savings app written in C#. Every payment is **rounded up to the next whole OMR**, and the spare change is saved automatically.
