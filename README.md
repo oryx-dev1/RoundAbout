@@ -18,13 +18,14 @@ A command-line savings app written in C#. Every payment is **rounded up to the n
 
 ## Getting Started
 
-**Requirements:** [.NET 8 SDK](https://dotnet.microsoft.com/download) or newer
+**Requirements:** [.NET 10 SDK](https://dotnet.microsoft.com/download) or newer
 
 ```bash
 git clone https://github.com/oryx-dev1/RoundAbout.git
 cd RoundAbout
 dotnet restore
 dotnet run --project RoundAbout/RoundAbout.csproj
+dotnet test
 ```
 
 ## Usage
@@ -85,7 +86,9 @@ Amounts that are already whole numbers (e.g. `5`) save nothing.
 
 | File | Purpose |
 |------|---------|
-| `Program.cs` | The whole app: menu, features, validation, saving and loading |
+| `Program.cs` | Console menu and app flow (pay/history/summary/deposit/goal/undo) |
+| `Logic.cs` | Reusable calculation and formatting helpers for payment logic |
+| `RoundAbout.Tests/RoundAboutLogicTests.cs` | Unit tests for core payment and parsing behavior |
 | `roundabout.json` | Created on first payment; stores balance, savings, goal and history |
 
 To reset the app, delete `roundabout.json`.
@@ -96,7 +99,7 @@ To reset the app, delete `roundabout.json`.
 - [ ] Export history to CSV
 - [ ] Configurable rounding (nearest 0.5 or 0.100 OMR)
 - [ ] Monthly savings reports
-- [ ] Unit tests
+- [ ] Expand unit test coverage
 
 ## License
 
