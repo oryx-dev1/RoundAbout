@@ -12,3 +12,4 @@ C:\Users\alajm\RiderProjects\RoundAbout\RoundAbout\obj\Debug\net10.0\refint\Roun
 C:\Users\alajm\RiderProjects\RoundAbout\RoundAbout\obj\Debug\net10.0\RoundAbout.pdb
 C:\Users\alajm\RiderProjects\RoundAbout\RoundAbout\obj\Debug\net10.0\RoundAbout.genruntimeconfig.cache
 C:\Users\alajm\RiderProjects\RoundAbout\RoundAbout\obj\Debug\net10.0\ref\RoundAbout.dll
+C:\Users\alajm\RiderProjects\RoundAbout\RoundAbout\obj\Debug\net10.0\RoundAbout.sourcelink.json
